@@ -72,7 +72,7 @@ src/
 │ ├── SearchBar.jsx
 ├── context/
 │ └── ListingContext.js
-│ ├── App.js
-│ ├── index.js
-│ ├── index.css
-│ ├── reportWebVitals.js
+├── App.js
+├── index.js
+├── index.css
+├── reportWebVitals.js
