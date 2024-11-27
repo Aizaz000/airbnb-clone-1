@@ -63,6 +63,7 @@ This project is an Airbnb-inspired web application that demonstrates a simplifie
 ---
 
 ## Project Structure
+<p>
 src/
 ├── Components/
 │   ├── Categories.jsx
@@ -76,3 +77,4 @@ src/
 ├── index.js
 ├── index.css
 ├── reportWebVitals.js
+</p>
