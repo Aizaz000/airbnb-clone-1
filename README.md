@@ -63,16 +63,18 @@ This project is an Airbnb-inspired web application that demonstrates a simplifie
 ---
 
 ## Project Structure
-src/
-├── Components/
-│ ├── Categories.jsx
-│ ├── Footer.jsx
-│ ├── Listings.jsx
-│ ├── Navbar.jsx
-│ ├── SearchBar.jsx
-├── context/
-│ └── ListingContext.js
-├── App.js
-├── index.js
-├── index.css
-├── reportWebVitals.js
+```
+src/  
+├── Components/  
+│   ├── Categories.jsx  
+│   ├── Footer.jsx  
+│   ├── Listings.jsx  
+│   ├── Navbar.jsx  
+│   ├── SearchBar.jsx  
+├── context/  
+│   └── ListingContext.js  
+├── App.js  
+├── index.js  
+├── index.css  
+├── reportWebVitals.js  
+``` 
